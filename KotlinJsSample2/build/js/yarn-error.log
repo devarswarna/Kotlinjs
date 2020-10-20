@@ -1,0 +1,38 @@
+Arguments: 
+  C:\Users\swarnalathad\.gradle\nodejs\node-v12.16.1-win-x64\node.exe C:\Users\swarnalathad\.gradle\yarn\yarn-v1.22.4\bin\yarn.js
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Cloud Foundry;C:\Program Files\Git\cmd;C:\Android;C:\Windows\System32;C:\ProgramData\chocolatey\bin;C:\PROGRA~2\Groovy\GROOVY~1.17\bin;C:\Program Files\nodejs\;C:\Users\swarnalathad\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\swarnalathad\AppData\Local\Programs\Python\Python38-32\;C:\Program Files\JetBrains\WebStorm 2019.2.3\bin;;C:\Users\swarnalathad\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\swarnalathad\AppData\Roaming\npm;D:\StudyMaterial\Kotlin\kotlinc\bin;D:\StudyMaterial\kafka_2.12-2.5.0\Intellij\IntelliJ IDEA 2020.2.2\bin;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, lstat 'D:\StudyMaterial\KotlinJsSample2\build\js\packages_imported\kotlin\1.4.10'
+
+npm manifest: 
+  {
+    "private": true,
+    "workspaces": [
+      "packages\\KotlinJsSample2"
+    ],
+    "devDependencies": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "optionalDependencies": {},
+    "bundledDependencies": [],
+    "name": "KotlinJsSample2",
+    "version": "1.0-SNAPSHOT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
